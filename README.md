@@ -3,6 +3,8 @@
 ###
 
 <p align="center">I'm Sole and I'm a web developer from Argentina.</p>
+<p>I'm currently updating my GitHub profile, so you'll see it a bit empty and with old repositories. Come back soon to see my latest work.
+</p>
 
 ###
 

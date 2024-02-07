@@ -15,7 +15,6 @@
 <p align="left">✨ Developing since 2020<br>📚 I'm currently learning Next.js & Three.js<br>🎯 Goals: find a fun and collaborative team with whom to create the most amazing applications</p>
 
 ###
-
 <h2 align="left">Tools and Technologies</h2>
 
 ###
@@ -73,3 +72,9 @@
 </div>
 
 ###
+
+<h2 align="left">Codewars</h2>
+
+###
+
+[![codewars](https://www.codewars.com/users/sole-spoto/badges/large)](https://www.codewars.com/users/sole-spoto)   

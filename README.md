@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Developing since 2020<br>📚 I'm currently learning Next.js & Three.js<br>🎯 Goals: find a fun and collaborative team with whom to create the most amazing applications</p>
+<p align="left">✨ Developing since 2020<br>📚 I'm currently working with Next.js & TailwindCSS<br>🎯 Goals: find a healthy and collaborative team with whom to create the most amazing web applications</p>
 
 ###
 <h2 align="left">Tools and Technologies</h2>
@@ -52,7 +52,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
 
 ###
